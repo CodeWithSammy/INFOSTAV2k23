@@ -448,6 +448,7 @@ nav.navbar.bootsnav .navbar-toggle i{color: #ff545a;}
 .explore-content{margin-top: 78px;}
 
 .single-explore-item {
+    max-width: 200px;
     background: #fff;
     border: 1px solid #edeff1;
     border-radius: 3px;
